@@ -1,0 +1,32 @@
+{
+	"name": "RAKwireless ADS7830 library",
+	"version": "1.0.0",
+	"keywords": [
+		"ADC",
+		"ADS7830",
+		"RAKWireless",
+		"WisBlock",
+		"RAK16001"
+	],
+	"description": "RAKWireless library for the RAK16001 ADC Modules",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Michael Hao"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK-ADS7830-Library"
+	},
+	"homepage": "https://rakwireless.com"
+}

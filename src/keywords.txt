@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map For ADC_ADS7830
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ADS7830	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2    
+getAddr_ADS7830	KEYWORD2
+Get_SingleEnded_Data	KEYWORD2
+Get_Differential_Data	KEYWORD2
+getLastConversionResults	KEYWORD2
+setSDMode	KEYWORD2
+getSDMode	KEYWORD2
+setPDMode	KEYWORD2
+getPDMode	KEYWORD2
+AdsBeginTransmission	KEYWORD2
+AdsEndTransmission	KEYWORD2
+setVoltageResolution	KEYWORD2
+getVoltageResolution	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+SDMODE_DIFF	LITERAL1
+SDMODE_SINGLE	LITERAL1
+PDADCONV	LITERAL1
+PDIROFF_ADON	LITERAL1
+PDIRON_ADOFF	LITERAL1
+PDIRON_ADON	LITERAL1
